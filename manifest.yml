@@ -9,7 +9,7 @@ modules:
     description: Capture voice commands and respond accordingly
     module_configuration:
     - description: The speech-to-text engine to use
-      format: google|pocketsphinx
+      format: google|pocketsphinx|deepspeech
       name: engine
       required: true
     - description: The name of the eGeoffrey notification service the speaker is running
