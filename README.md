@@ -1,6 +1,6 @@
 # egeoffrey-interaction-microphone
 
-This is an eGeoffrey interaction package.
+This is an eGeoffrey interaction package. Check the Apéndice on the TFM documentation to see how to install and use it.
 
 ## Description
 
